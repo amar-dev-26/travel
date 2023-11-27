@@ -1,0 +1,29 @@
+.login_input_wrapper {
+  display: flex;
+  width: 25%;
+  /* // background-color: red; */
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.container__Wrapper {
+  margin-top: 52px;
+}
+
+.left-image__Section {
+  width: 80%;
+
+  /* background-color: red; */
+}
+/* .login__input__style{
+    width: 280px
+} */
+.login__style__wrapper {
+    width: 100%;
+  }
+
+@media only screen and (max-width: 600px) {
+  .login__style__wrapper {
+    width: 100%;
+  }
+}

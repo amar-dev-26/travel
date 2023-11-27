@@ -1,0 +1,21 @@
+
+.contact__style{
+    padding: 48px;
+}
+.contact__style{
+    padding: 48px;
+}
+.contactus__style{
+    padding: 38px;
+}
+@media only screen and (max-width: 600px) {
+    .quick__style{
+        display: none;
+    }
+    .contact__style{
+        padding: 22px;
+    }
+    .contactus__style{
+        padding: 0px;
+    }
+}

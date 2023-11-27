@@ -1,0 +1,22 @@
+.view_detail{
+    width:100%;
+min-height: 100vh;
+  background-color:white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.view_table{
+    width:80%;
+    min-height: 80vh;
+    
+}
+
+
+@media only screen and (max-width: 600px) {
+    .view_table {
+        width: 96%;
+        min-height: 76vh;
+    }
+  }

@@ -1,0 +1,20 @@
+
+
+.container__content-style{
+    font-size: larger;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    font-size:larger
+
+}
+
+/* @media screen and (max-width: 600px) {
+    .button__logout{
+        margin-left: 136px;
+        
+    }
+} */
